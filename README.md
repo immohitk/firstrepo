@@ -1,4 +1,6 @@
 # firstrepo
 This is my first repo..
-Author - Mohit Kumar
+<br>
+<b> Author - Mohit Kumar </b>
+<br>
 Learning GIT HUB
